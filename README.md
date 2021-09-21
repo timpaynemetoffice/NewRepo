@@ -1,2 +1,2 @@
 # NewRepo
-Another repo test
+New text replacing old
